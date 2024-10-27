@@ -1,0 +1,24 @@
+
+
+[
+    {
+        "playerId": 1,
+        "name": "Player One",
+        "country": "Country A",
+        "image": "",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 100
+      },
+      {
+        "playerId": 2,
+        "name": "Player Two",
+        "country": "Country B",
+        "image": "url_to_image",
+        "role": "Bowler",
+        "battingType": "Left-handed",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 80
+      }
+    ]
